@@ -1,0 +1,35 @@
+baseURL = 'https://sojournersonearth.uk/'
+languageCode = 'en-us'
+title = 'Sojourners On Earth'
+theme = 'ananke'
+
+
+[params]
+  custom_css = ["custom.css", "comentario.css"]
+  description = "How shall we sing the LORD's song in a strange land?"
+  name = 'gershom'
+  author = 'gershom'
+  featured_image = '/images/An_den_Wassern_Babels.jpg'
+  featured_image_class = "cover bg-center"
+  comentario = true
+  body_classes = "avenir"
+  site_image = '/images/An_den_Wassern_Babels.jpg'
+  favicon = '/images/favicon.ico'
+  recent_posts_number = 10
+
+[params.ananke.social.share]
+  icons = true
+  sharetext = true
+  networks = [
+    "email",
+    "facebook",
+    "x-twitter",
+    "bluesky",
+    "linkedin"
+  ]
+
+
+[markup.goldmark.parser.attribute]
+  title = true
+  block = true
+

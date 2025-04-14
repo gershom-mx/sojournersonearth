@@ -1,0 +1,91 @@
+@font-face{
+  font-family: "avenir";
+  font-weight: 400;
+  src: ("../../fonts/Avenir-Medium.woff2") format("woff2");
+
+}
+
+
+.header.cover {
+  background-size: 100% !important;
+}
+
+header h2 {
+  font-style: italic;
+}
+
+.site-description {
+  font-size: 0.9rem;
+  display: block;
+  width: 15rem;
+  padding-top: 0.4rem;
+}
+
+body {
+  background-color: #f1e9d7;
+  color: #4c4845;
+}
+
+comentario-root comentario-btn {
+
+  background-color: #4c4845;
+
+}
+
+.serif {
+  font-family: Garamond, Georgia, 'Times New Roman', Times, serif;
+}
+
+.bg-black {
+  background-color: #302f2c;
+}
+
+.bg-white {
+  background-color: #ededed;
+}
+
+table {
+  font-family: avenir next,avenir,sans-serif;
+  font-size: 0.875rem;
+}
+
+thead {
+  background-color: #4c4845;
+  color: #fff;
+}
+
+tbody {
+  vertical-align: top;
+}
+
+table tr:nth-child(even) {
+  
+  background-color: #dad2c3;
+}
+
+table td {
+  padding: 0.5rem;
+}
+
+table.verses thead {
+  height: 4rem;
+}
+
+table.verses thead th {
+  font-weight: 100;
+}
+
+table.verses td:first-child{
+  width: 8rem;
+}
+
+
+div.footnotes {
+  font-size: 0.9rem;
+  margin-top: 8rem
+}
+
+
+footer a.f4 {
+  font-size: 0.9rem;
+}

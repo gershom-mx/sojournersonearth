@@ -1,0 +1,7 @@
+
+.sojourner-logo {
+  width: 30em;
+  height: 30em;
+  border-radius: 100%;
+  background-color: #fff;
+}
