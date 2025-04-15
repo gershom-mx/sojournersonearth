@@ -5,7 +5,7 @@ theme = 'ananke'
 
 
 [params]
-  custom_css = ["custom.css", "comentario.css"]
+  custom_css = ["custom.css"]
   description = "How shall we sing the LORD's song in a strange land?"
   name = 'gershom'
   author = 'gershom'
