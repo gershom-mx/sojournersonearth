@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/usr/share/nginx/sojournersonearth",
+	"sourceRoot": "",
 	"sources": [
 		"ananke/css/main.css"
 	],
